@@ -15,12 +15,18 @@ If you have any question look at HomeautomationForGeek github and if you still h
 So lets start !! 
 
 This is the final result : 
+
 http://imgur.com/a/n7P2t
+
 http://i.imgur.com/8U0oPFz.png
+
 http://imgur.com/cYIeDT9
+
 http://imgur.com/3fydgmv
 
 I change the original project to allow multiple page for each room.
+
 I also put a different css on time of the year 
 
+A good start to edit this project is Header.php who is include in all the page.
 
